@@ -1,0 +1,5 @@
+{
+    "require": {
+        "pagseguro/pagseguro-php-sdk": "3.3"
+    }
+}

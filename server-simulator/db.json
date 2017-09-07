@@ -1,0 +1,307 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "ut cupidatat",
+      "price": 755.937,
+      "picture": "http://placehold.it/32x32"
+    },
+    {
+      "id": 2,
+      "name": "ad anim",
+      "price": 380.7335,
+      "picture": "http://placehold.it/32x32"
+    },
+    {
+      "id": 3,
+      "name": "veniam ullamco",
+      "price": 581.7449,
+      "picture": "http://placehold.it/32x32"
+    },
+    {
+      "id": 4,
+      "name": "aute sit",
+      "price": 21.0258,
+      "picture": "http://placehold.it/32x32"
+    },
+    {
+      "id": 5,
+      "name": "incididunt id",
+      "price": 473.0501,
+      "picture": "http://placehold.it/32x32"
+    },
+    {
+      "id": 6,
+      "name": "sint ullamco",
+      "price": 328.5881,
+      "picture": "http://placehold.it/32x32"
+    },
+    {
+      "id": 7,
+      "name": "enim in",
+      "price": 635.8272,
+      "picture": "http://placehold.it/32x32"
+    },
+    {
+      "id": 8,
+      "name": "sunt quis",
+      "price": 437.748,
+      "picture": "http://placehold.it/32x32"
+    },
+    {
+      "id": 9,
+      "name": "nostrud culpa",
+      "price": 574.2927,
+      "picture": "http://placehold.it/32x32"
+    },
+    {
+      "id": 10,
+      "name": "amet nulla",
+      "price": 420.5317,
+      "picture": "http://placehold.it/32x32"
+    },
+    {
+      "id": 11,
+      "name": "dolore ad",
+      "price": 889.7029,
+      "picture": "http://placehold.it/32x32"
+    },
+    {
+      "id": 12,
+      "name": "eiusmod et",
+      "price": 724.1213,
+      "picture": "http://placehold.it/32x32"
+    },
+    {
+      "id": 13,
+      "name": "enim mollit",
+      "price": 672.257,
+      "picture": "http://placehold.it/32x32"
+    },
+    {
+      "id": 14,
+      "name": "qui ex",
+      "price": 313.2619,
+      "picture": "http://placehold.it/32x32"
+    },
+    {
+      "id": 15,
+      "name": "culpa adipisicing",
+      "price": 322.6901,
+      "picture": "http://placehold.it/32x32"
+    },
+    {
+      "id": 16,
+      "name": "consequat exercitation",
+      "price": 903.5401,
+      "picture": "http://placehold.it/32x32"
+    },
+    {
+      "id": 17,
+      "name": "est nulla",
+      "price": 733.3851,
+      "picture": "http://placehold.it/32x32"
+    },
+    {
+      "id": 18,
+      "name": "in anim",
+      "price": 568.2013,
+      "picture": "http://placehold.it/32x32"
+    },
+    {
+      "id": 19,
+      "name": "do Lorem",
+      "price": 409.9633,
+      "picture": "http://placehold.it/32x32"
+    },
+    {
+      "id": 20,
+      "name": "non aliquip",
+      "price": 595.0264,
+      "picture": "http://placehold.it/32x32"
+    },
+    {
+      "id": 21,
+      "name": "proident reprehenderit",
+      "price": 822.9217,
+      "picture": "http://placehold.it/32x32"
+    },
+    {
+      "id": 22,
+      "name": "laboris do",
+      "price": 997.6089,
+      "picture": "http://placehold.it/32x32"
+    },
+    {
+      "id": 23,
+      "name": "commodo commodo",
+      "price": 173.613,
+      "picture": "http://placehold.it/32x32"
+    },
+    {
+      "id": 24,
+      "name": "incididunt id",
+      "price": 21.0158,
+      "picture": "http://placehold.it/32x32"
+    },
+    {
+      "id": 25,
+      "name": "occaecat ullamco",
+      "price": 522.5889,
+      "picture": "http://placehold.it/32x32"
+    },
+    {
+      "id": 26,
+      "name": "magna in",
+      "price": 723.2151,
+      "picture": "http://placehold.it/32x32"
+    },
+    {
+      "id": 27,
+      "name": "quis dolore",
+      "price": 876.9312,
+      "picture": "http://placehold.it/32x32"
+    },
+    {
+      "id": 28,
+      "name": "voluptate reprehenderit",
+      "price": 920.8341,
+      "picture": "http://placehold.it/32x32"
+    },
+    {
+      "id": 29,
+      "name": "minim consequat",
+      "price": 178.3144,
+      "picture": "http://placehold.it/32x32"
+    },
+    {
+      "id": 30,
+      "name": "quis elit",
+      "price": 566.0241,
+      "picture": "http://placehold.it/32x32"
+    },
+    {
+      "id": 31,
+      "name": "reprehenderit adipisicing",
+      "price": 994.1327,
+      "picture": "http://placehold.it/32x32"
+    },
+    {
+      "id": 32,
+      "name": "excepteur ut",
+      "price": 164.7145,
+      "picture": "http://placehold.it/32x32"
+    },
+    {
+      "id": 33,
+      "name": "eu consequat",
+      "price": 99.4893,
+      "picture": "http://placehold.it/32x32"
+    },
+    {
+      "id": 34,
+      "name": "laborum commodo",
+      "price": 208.1441,
+      "picture": "http://placehold.it/32x32"
+    },
+    {
+      "id": 35,
+      "name": "amet elit",
+      "price": 910.2109,
+      "picture": "http://placehold.it/32x32"
+    },
+    {
+      "id": 36,
+      "name": "exercitation dolor",
+      "price": 163.3608,
+      "picture": "http://placehold.it/32x32"
+    },
+    {
+      "id": 37,
+      "name": "anim Lorem",
+      "price": 884.7367,
+      "picture": "http://placehold.it/32x32"
+    },
+    {
+      "id": 38,
+      "name": "elit eiusmod",
+      "price": 414.3442,
+      "picture": "http://placehold.it/32x32"
+    },
+    {
+      "id": 39,
+      "name": "voluptate aliqua",
+      "price": 765.5937,
+      "picture": "http://placehold.it/32x32"
+    },
+    {
+      "id": 40,
+      "name": "laborum anim",
+      "price": 115.1487,
+      "picture": "http://placehold.it/32x32"
+    },
+    {
+      "id": 41,
+      "name": "do minim",
+      "price": 918.0887,
+      "picture": "http://placehold.it/32x32"
+    },
+    {
+      "id": 42,
+      "name": "cupidatat officia",
+      "price": 939.6079,
+      "picture": "http://placehold.it/32x32"
+    },
+    {
+      "id": 43,
+      "name": "incididunt proident",
+      "price": 373.3104,
+      "picture": "http://placehold.it/32x32"
+    },
+    {
+      "id": 44,
+      "name": "incididunt elit",
+      "price": 503.5286,
+      "picture": "http://placehold.it/32x32"
+    },
+    {
+      "id": 45,
+      "name": "pariatur tempor",
+      "price": 425.0823,
+      "picture": "http://placehold.it/32x32"
+    },
+    {
+      "id": 46,
+      "name": "commodo excepteur",
+      "price": 871.4256,
+      "picture": "http://placehold.it/32x32"
+    },
+    {
+      "id": 47,
+      "name": "amet consectetur",
+      "price": 490.5705,
+      "picture": "http://placehold.it/32x32"
+    },
+    {
+      "id": 48,
+      "name": "culpa ipsum",
+      "price": 464.2607,
+      "picture": "http://placehold.it/32x32"
+    },
+    {
+      "id": 49,
+      "name": "nisi ea",
+      "price": 503.1555,
+      "picture": "http://placehold.it/32x32"
+    },
+    {
+      "id": 50,
+      "name": "magna amet",
+      "price": 267.1377,
+      "picture": "http://placehold.it/32x32"
+    }
+  ],
+  "categories": [
+    {"name": "qualquer coisa"}
+  ]
+}

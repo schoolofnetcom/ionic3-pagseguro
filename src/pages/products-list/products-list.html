@@ -1,0 +1,39 @@
+<!--
+  Generated template for the ProductsListPage page.
+
+  See http://ionicframework.com/docs/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+
+  <ion-navbar>
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title>Listagem de produtos</ion-title>
+    <ion-buttons end>
+      <button-cart></button-cart>
+    </ion-buttons>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+  <!--<ion-list *ngIf="(products|async)?.length>0;else loading">-->
+  <ion-list *ngIf="products|async;else loading">
+    <ion-item *ngFor="let product of products | async">
+      <ion-thumbnail item-start navPush="ProductDetail" [navParams]="{product: product.id}">
+        <img [src]="product.picture">
+      </ion-thumbnail>
+      <h2 [innerHTML]="product.name"></h2>
+      <p [innerHTML]="'R$ '+product.price"></p>
+      <button ion-button item-end icon-only clear (click)="addItem(product)">
+        <ion-icon name="cart"></ion-icon>
+      </button>
+    </ion-item>
+  </ion-list>
+  <ng-template #loading>
+    <h2>Carregando...</h2>
+  </ng-template>
+</ion-content>

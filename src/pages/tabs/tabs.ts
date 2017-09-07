@@ -1,19 +1,32 @@
-import { Component } from '@angular/core';
+import {Component, ViewChild} from '@angular/core';
 
-import { AboutPage } from '../about/about';
-import { ContactPage } from '../contact/contact';
-import { HomePage } from '../home/home';
+import {ContactPage} from '../contact/contact';
+import {HomePage} from '../home/home';
+import {ProductsListPage} from "../products-list/products-list";
+import {NavParams, Tabs} from "ionic-angular";
 
 @Component({
-  templateUrl: 'tabs.html'
+    templateUrl: 'tabs.html'
 })
 export class TabsPage {
 
-  tab1Root = HomePage;
-  tab2Root = AboutPage;
-  tab3Root = ContactPage;
+    @ViewChild(Tabs)
+    tabsRef: Tabs;
 
-  constructor() {
+    tab1Root = HomePage;
+    tab2Root = ProductsListPage;
+    tab3Root = ContactPage;
 
-  }
+    constructor(public navParams: NavParams) {
+
+    }
+
+    ionViewDidLoad() {
+        let index = this.navParams.get('index');
+        if (index !== null) {
+            setTimeout(() => {
+                this.tabsRef.select(index);
+            },300);
+        }
+    }
 }
